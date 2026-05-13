@@ -1,56 +1,64 @@
 # Hi there, I'm Ahmed! 👋
 
-### 🚀 Front-end Developer | React & Next.js Specialist
-I am a passionate Front-end Developer focused on building scalable, high-performance web applications. I specialize in the React ecosystem, creating seamless user experiences with modern styling and robust state management.
+### 🚀 Senior Front-end Engineer | React & Next.js 15 Specialist
+I am a performance-driven Developer specializing in building high-scale web applications. My focus lies in the intersection of robust architecture, advanced state management, and optimized user experiences.
 
 ---
 
-### 🛠 My Tech Stack
+### 🛠 Professional Tech Stack
 
-**Languages & Core**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frameworks & Libraries**
+**Core Development**
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Styling & Design Systems**
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Tools & State**
+**Data & Architecture**
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+### 🧪 Quality & Optimization
+* **Testing:** Expert in **React Testing Library** and Jest for building reliable, bug-free components.
+* **Performance:** Specialist in **Next.js App Optimization**, Core Web Vitals, and Webpack 5 configuration.
+* **Deep Dive:** Understanding the "Under the Hood" mechanics of JavaScript and React's reconciliation engine.
 
 ---
 
 ### 🌟 Featured Projects
 
-* **🎬 Movie Discovery App** – A dynamic web application featuring real-time data fetching, advanced filtering, and a responsive UI.
-* **💼 Corporate Portfolio** – A professional, high-conversion landing page designed for business excellence.
-* **💱 Currency Converter** – A precision tool utilizing live API data for instant global currency exchange.
+* **🎬 Movie Ecosystem App** – Built with React and optimized for high-speed content delivery and dynamic filtering.
+* **💼 Enterprise Portfolio** – A scalable, SEO-optimized business platform utilizing Next.js 15 features.
+* **💱 Real-time Currency Engine** – A high-precision tool leveraging third-party APIs and custom state management hooks.
 
 ---
 
-### 📚 Current Focus
-* 🔭 Mastering advanced **Next.js** patterns and Server Components.
-* ⚡ Optimizing **React State Management** for large-scale applications.
-* 🌍 Improving my English for global technical collaboration.
+### ⚡ Technical Interests
+* **CI/CD:** Streamlining deployments with Git, GitHub Actions, and modern automation.
+* **Scalable CSS:** Implementing advanced Tailwind and PostCSS architectures.
+* **Architecture:** Moving beyond code—designing systems that are easy to maintain and scale.
 
 ---
 
 ### ⚽ Beyond the Code
-* **Pitch Ready:** Huge football fan. Whether it's playing on the field or watching a match, I love the strategy of the game.
-* **Cinematic Enthusiast:** I enjoy diving into movies and series to unwind after a long coding session.
-* **AI & Tech:** Constantly exploring how AI tools can speed up developer workflows.
+* **The Pitch:** Dedicated football player and strategist.
+* **Cinematic Enthusiast:** Deeply interested in the storytelling of movies and series.
+* **AI Integration:** Actively using AI to restore data and automate complex dev workflows.
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Let's Connect
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourprofile) 
-[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://yourportfolio.com)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/yourusername)
 
 ---
-*“Coding is not just about syntax; it’s about solving problems.”*
+*"Building the web, one optimized frame at a time."*
