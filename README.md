@@ -57,8 +57,8 @@ I am a performance-driven Developer specializing in building high-scale web appl
 ---
 
 ### 🤝 Let's Connect
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourprofile) 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/yourusername)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/ِahmed-alsayed-b60626391) 
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/A7med-ElRawy)
 
 ---
 *"Building the web, one optimized frame at a time."*
