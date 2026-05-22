@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed! 👋
 
-### 🚀 Senior Front-end Engineer | React & Next.js 15 Specialist
+### 🚀 Junior Front-end Engineer | React & Next.js 15 Specialist
 I am a performance-driven Developer specializing in building high-scale web applications. My focus lies in the intersection of robust architecture, advanced state management, and optimized user experiences.
 
 ---
